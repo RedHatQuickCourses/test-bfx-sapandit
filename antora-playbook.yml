@@ -1,6 +1,6 @@
 site:
-  title: FIXME Course Title
-  start_page: REPLACEREPONAME::index.adoc
+  title: Test breakfix
+  start_page: test-bfx-sapandit::index.adoc
 
 content:
   sources:

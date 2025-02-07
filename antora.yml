@@ -1,5 +1,5 @@
-name: REPLACEREPONAME
-title: FIXME Course Title
+name: test-bfx-sapandit
+title: Test breakfix
 version: 1
 nav:
 - modules/ROOT/nav.adoc
